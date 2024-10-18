@@ -1,0 +1,5 @@
+kaggle==1.6.17
+datasets==3.0.1
+seqeval==1.2.2
+evaluate==0.4.3
+openai==1.52.0
